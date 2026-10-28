@@ -7,7 +7,6 @@
   <a href="https://www.htwmcl.fr/" target="_blank">HTWMCL.FR</a> |
   <a href="https://x.com/g0h4n_0" target="_blank">X</a> |
   <a href="https://www.linkedin.com/in/quentin-texier/" target="_blank">LinkedIn</a>
-  <img src="https://hit.yhype.me/github/profile?account_id=18140652" />
 </h4>
 <p align="center">
   🔴 Red Team | 🟣 Purple Team | 🦀 Rust Maldev
